@@ -4,7 +4,7 @@ end
 def batch_badge_creator(array)
   array2=array
   while array2.length>0
-    name=array2.pop
+    name=array2.shift
     return "Hello, my name is #{name}"
   end
 end
