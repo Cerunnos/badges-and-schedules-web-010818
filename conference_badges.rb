@@ -12,5 +12,6 @@ end
 def assign_rooms(array)
   counter=0
   array2=[]
-  array.each
+  array.each do |name|
+  end
 end
